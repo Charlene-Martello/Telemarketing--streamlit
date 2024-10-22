@@ -1,58 +1,24 @@
-# Título do projeto
+# Seleção e Exibição de Dados.
 
-Um simples resumo do uso/propósito do projeto.
+Para a realização dessa experiência, utilizaremos um banco de dados de um telemarketing, esse banco traz uma série de variáveis sobre os clientes, como idade, estado civil, etc., e como variável dependente nos retorna se a propaganda funcionou ou não com esse cliente.
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Esse é um projeto simples e interativo, onde o usuário poderá visualizar os dados originais e poderá aplicar uma série de filtros nele para que possa visualizar da melhor forma qual foi a proporção de aceite entre os clientes selecionados. 
+
+Apesar de ser uma abordagem simples, ela acaba nos trazendo muitas informações, pois aplicando os filtros desejados podemos retirar vários insigths desses dados. 
+
 
 ### Link para aplicação (LIVE)
 https://telemarketing-streamlit-1.onrender.com/
 
 ## Utilização
 
-### Dependencias
+Para conseguir tirar o máximo proveito desse projeto, acesse o link acima, mas, antes de acessar, certifique-se de fazer download do arquivo "bank-additional-full.csv" localizado aqui nesse repositório.
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+Ao entrar no link acima você encontrará no canto esquerdo da tela um espaço para carregar um arquivo, esse arquivo é o indicado acima e ele será o banco de dados dessa análise.  Lembre-se de utilizar os filtros que se encontraram à esquerda da página, logo abaixo do campo para upload do arquivo. Explore essa página. Aplique os filtros e dê uma olhada na tabela de proporção de aceite, nos gráficos, eles podem ser muito informativos.
 
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
-### Executando o projeto
-
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
+Ah e tem mais, você pode realizar o download de todo o material filtrado. 
 
 ## Fontes de inspiração
 
